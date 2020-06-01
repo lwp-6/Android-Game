@@ -4,6 +4,6 @@ AndroidStudio2.2
 Android7.0  
 源码位置：Android-Game/app/src/main/  
 效果如下图：
-![Alt text](/img/img1.jpg)  
-![Alt text](/img/img2.jpg)  
-![Alt text](/img/img3.jpg)
+![游戏界面](https://github.com/lwp-6/Android-Game/blob/master/img/img1.png)  
+![游戏](https://github.com/lwp-6/Android-Game/blob/master/img/img2.jpg)  
+![说明页面](https://github.com/lwp-6/Android-Game/blob/master/img/img3.png)
